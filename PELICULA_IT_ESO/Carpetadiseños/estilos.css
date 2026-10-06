@@ -1,0 +1,103 @@
+*{  box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+}
+
+body{background-color: black;
+        display: flex;
+        flex-direction: column;
+     }
+
+
+
+#IMPACTO{ scroll-margin-top: 150px;
+}
+
+header{ background-color: #e82125;
+            align-items: center;
+            justify-content:center;
+            position: sticky;
+        top: 0; }
+
+h1{ text-align: left;
+color: #eeeae9;
+font-size: 50px;
+padding-left: 2%; }            
+
+#Navegación{ margin: 0;
+            padding: 0;
+            }
+
+.linksnav{display:flex; 
+        text-decoration: none; 
+        align-items: center;
+        list-style: none ; 
+        color:#eeeae9;
+        padding: 20px;
+        gap: 20px; 
+        font-size: 20px ; }
+
+img{ align-items: center;}
+
+p{color: #eeeae9;
+    padding: 10px;
+text-align: justify;
+font-size: 20px; 
+margin: 15px;}
+
+.tituloreparto{padding: 10px;
+    font-size: 45px;
+margin: 40px ;}
+
+h2{color: #eeeae9;
+    padding: 10px;
+    font-size: 45px;}
+
+h3{ color: #eeeae9;
+padding: 10px;
+font-size: 40px;}
+
+h5{color: #eeeae9;
+padding: 10px;
+font-size: 40px; }
+
+h6{ color: #eeeae9;
+padding: 10px;
+font-size: 30px;
+}
+
+li{ color: #eeeae9;
+padding: 10px;
+font-size:18px ;
+
+}
+
+.centrarr{ text-align: center;
+}
+
+article{ margin: 45px;}
+
+img{padding:80px;  }
+
+a{ text-decoration: none;
+color:#eeeae9;}
+
+.Fotografiaactores{width:600px ;}
+
+.Reparto{display: flex ;
+            }
+
+footer{ background-color: #710a0c; 
+display: flex;
+flex-direction: column;
+text-align: center; 
+justify-content: center;
+}
+
+.iconosredes{ font-size: 35px; }
+ 
+.Navegacionn{ margin: 60px}
+
+
