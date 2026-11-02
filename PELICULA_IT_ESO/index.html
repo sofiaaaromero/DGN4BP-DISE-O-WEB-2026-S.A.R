@@ -124,6 +124,50 @@
         <p> Copyright 2026 - <a> <i class="fa-solid fa-copyright"></i> </a> </p> 
     </article>
 
+<form action="confirmacion.html">
+        <!-- nombre,apellido, mail, telefono, la consulta.... -->
+         <label for="usuario">Ingrese su usuario:</label>
+         <input readonly type="text" name="usuario" value="facu" id="usuario">
+         <label>
+            Ingrese su contraseña:
+            <input  type="password" placeholder="Minimo 6 caracteres" minlength="6" name="contra" id="contra">
+         </label>
+         <label>
+            <input  type="email" placeholder="no olvidemos el @" name="" id="">
+         </label>
+         <input type="number" name="edad" placeholder="Ingrese su edad..." min="0" id="">
+         <input type="range" min="50" max="70" name="" id="">
+         <input type="color" name="" id="">
+
+         <select name="helado" id="">
+            <option value="">Menta granizada</option>
+            <option value="Sambayon">Sambayon</option>
+            <option value="Pistacho"></option>
+         </select>
+         <label>
+            Recibir notificaciones al mail
+         <input checked type="checkbox" name="noti" id="">
+         </label>
+         <fieldset>
+            <legend>Gaseosas</legend>
+            <label>Uva
+                <input type="radio" name="Gaseosas" id="">
+            </label>
+            <label>Coca-Cola
+                <input type="radio" name="Gaseosas" id="">
+            </label>
+            <label>Pritty
+                <input type="radio" name="Gaseosas" id="">
+            </label>
+            <label>Sprite
+                <input type="radio" name="Gaseosas" id="">
+            </label>
+         </fieldset>
+
+
+         <input type="submit" hidden value="CARGAR">
+         <button  type="submit">ENVIAR</button>
+    </form>
 
 </footer>
 
