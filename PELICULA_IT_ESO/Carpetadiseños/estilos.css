@@ -21,8 +21,6 @@ header{ background-color: #e82125;
             position: sticky;
         top: 0; }
 
-h1 .comentario{ display: flex;}
-
 h1{ text-align: left;
 color: #eeeae9;
 font-size: 50px;
