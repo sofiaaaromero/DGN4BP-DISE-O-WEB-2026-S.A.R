@@ -21,7 +21,7 @@ header{ background-color: #e82125;
             position: sticky;
         top: 0; }
 
-nav{ display: flex;}
+h1 .comentario{ display: flex;}
 
 h1{ text-align: left;
 color: #eeeae9;
