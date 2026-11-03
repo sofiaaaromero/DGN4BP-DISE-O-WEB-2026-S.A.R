@@ -116,4 +116,5 @@ form { Color: #eeeae9;
     }
     input,button{
         width: 100%;
+        padding: 20px;
     }
