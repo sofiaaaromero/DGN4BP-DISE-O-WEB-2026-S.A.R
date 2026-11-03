@@ -108,6 +108,9 @@ form { Color: #eeeae9;
     flex-direction:column;
     justify-content: center ;
     padding: 10px;
+    label{padding: 15px; 
+
+    }
     *{
         font-size: 20px;
     }
