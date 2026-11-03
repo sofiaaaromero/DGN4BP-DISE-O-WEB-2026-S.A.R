@@ -122,4 +122,5 @@ form { Color: #eeeae9;
     }
     }
 
-    .comentario{ font-size: 45px; }
+    .comentario{ font-size: 65px;
+    display: flex; }
