@@ -39,7 +39,9 @@ padding-left: 2%; }
         gap: 20px; 
         font-size: 20px ; }
 
-.comentario{ font-size: 55px ;}
+.comentario{ font-size: 55px ;
+    align-items:flex-end;
+}
 
 img{ align-items: center;}
 
