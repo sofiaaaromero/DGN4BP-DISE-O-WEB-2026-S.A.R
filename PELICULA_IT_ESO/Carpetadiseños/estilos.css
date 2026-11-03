@@ -101,8 +101,8 @@ justify-content: center;
 .Navegacionn{ margin: 60px}
 
 
-form{ Color: #eeeae9;
-    width: 50vw;
+form { Color: #eeeae9;
+    width: 30%;
     margin: 50px ;
     display: flex;
     flex-direction: column;
