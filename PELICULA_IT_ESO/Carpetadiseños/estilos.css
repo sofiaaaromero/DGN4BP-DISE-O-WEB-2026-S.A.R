@@ -30,6 +30,9 @@ padding-left: 2%; }
             padding: 0;
             }
 
+#comentarios{ scroll-margin-top: 150px;
+}
+
 .linksnav{display:flex; 
         text-decoration: none; 
         align-items: center;
