@@ -108,12 +108,9 @@ form { Color: #eeeae9;
     flex-direction:column;
     justify-content: center ;
     padding: 10px;
-    text-align: center;
     *{
         font-size: 20px;
-        justify-content: center;
     }
     input,button{
         width: 100%;
-        justify-content: center;
     }
