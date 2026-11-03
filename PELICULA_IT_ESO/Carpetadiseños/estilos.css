@@ -106,6 +106,7 @@ form{ Color: #eeeae9;
     margin: 50px ;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     padding: 20px;
     *{
         font-size: 2rem;
