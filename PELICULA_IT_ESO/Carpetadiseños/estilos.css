@@ -13,6 +13,7 @@ body{background-color: black;
 
 .imagenn{ align-items: center;
     justify-content: center;
+    text-align: center; 
 }
 
 #IMPACTO{ scroll-margin-top: 200px;
