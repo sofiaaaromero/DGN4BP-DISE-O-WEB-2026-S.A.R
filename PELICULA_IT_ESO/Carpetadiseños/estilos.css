@@ -15,6 +15,7 @@ body{background-color: black;
     justify-content: center;
     text-align: center; 
     flex-direction: column;
+    color:#f7db40
 }
 
 #IMPACTO{ scroll-margin-top: 200px;
