@@ -11,7 +11,7 @@ body{background-color: black;
      }
 
 
-.imagenn{ align-items: center;
+.imagenn{
     justify-content: center;
     text-align: center; 
     flex-direction: column;
