@@ -118,6 +118,14 @@ justify-content: center;
  
 .Navegacionn{ margin: 40px}
 
+nav a {
+    color: white;
+    transition: all 0.3s ease;
+}
+
+nav a:hover {
+    color: yellow;
+}
 
 form { Color: #eeeae9;
     width: 30%;
