@@ -46,7 +46,14 @@ padding-left: 2%; }
         color:#eeeae9;
         padding: 20px;
         gap: 20px; 
-        font-size: 20px ; }
+        font-size: 20px ;
+    transition: all 0.3s ease;
+}
+
+.linksnav :hover {
+    color: yellow;
+}
+
 
 .comentario{ font-size: 55px ;
     ;
@@ -117,15 +124,6 @@ justify-content: center;
 .iconosredes{ font-size: 35px; }
  
 .Navegacionn{ margin: 40px}
-
-nav a {
-    color: white;
-    transition: all 0.3s ease;
-}
-
-nav a:hover {
-    color: yellow;
-}
 
 form { Color: #eeeae9;
     width: 30%;
